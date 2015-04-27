@@ -21,5 +21,5 @@ where <b>portnumber</b> should be replace for a choosen port number
   [1] http://www.ccs.neu.edu/home/jaa/CSG713.04F/Information/Handouts/dyn_prog.pdf
 <br>
 <br>
-<b> ASSUMPTIONS</b>
-The user is going to send a file cointaining only one number to be processed.
+<b> ASSUMPTIONS</b><br><br>
+The file upload should cointain only one number to be processed.
