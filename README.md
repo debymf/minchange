@@ -36,3 +36,8 @@ References<br>
 
 ## ASSUMPTIONS
 The file uploaded should cointain only one number to be processed.
+
+The coin denominations used are provided in the function CoinDeterminer. It is assumed that they are always provided in strict descending order. This could easily be checked:
+
+    if all(COINSLIST[i] >= COINSLIST[i+1] for i in xrange(len(COINSLIST)-1)) == False:
+        print "Check typos in COINSLIST"
