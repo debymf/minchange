@@ -2,6 +2,8 @@
 <b> SUMMARY </b><br><br>
 This web application is used to print the minimum amount of coins that can be combined intro a certain value. The user should upload a file with the number to be changed into coins. The result is presented in the screen.<br>
 If the user writes a number that is outside the allowed range(1 to 250), then an error message appears.
+
+
 <b>COMPILATION</b><br><br>
 To run this web application, it is necessary to have web.py installed.
 <br>
