@@ -1,16 +1,16 @@
 # minchange
 ## SUMMARY 
-This web application is used to print the minimum amount of coins that can be combined intro a certain user defined value. The user should upload a file with the number to be changed into coins. The result is presented in the screen.<br>
-If the user writes a number that is outside the allowed range(1 to 250), then an error message appears.
-The obtained results were as expected:
-$Input Test:
-$6
-$16
-$23
-$Test Output:
-$2
-$2
-$3
+    This web application is used to print the minimum amount of coins that can be combined intro a certain user defined value. The user should upload a file with the number to be changed into coins. The result is presented in the screen.<br>
+    If the user writes a number that is outside the allowed range(1 to 250), then an error message appears.
+    The obtained results were as expected:
+    $Input Test:
+    $6
+    $16
+    $23
+    $Test Output:
+    $2
+    $2
+    $3
 
 
 <b>COMPILATION</b><br><br>
