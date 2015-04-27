@@ -19,8 +19,8 @@ To run this web application, it is necessary to have <b>web.py</b> installed.
 
 The command for execution is:
 
-    python index.py <b>portnumber</b><br>
-where <b>portnumber</b> should be replace for a choosen port number
+    python index.py portnumber
+where <b>portnumber</b> should be replaced for a choosen port number.
 
 
 ## DESIGN CHOICES
