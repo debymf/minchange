@@ -30,7 +30,7 @@ The controller role is done by the index.py file, that invokes the view and the 
 
 In this solution the Model part was not implemented, it was judged not necessary for this solution. However, if the software has to evolve and expand, this component can be easily added.
 
-  ### References
+References<br>
     [1] http://www.ccs.neu.edu/home/jaa/CSG713.04F/Information/Handouts/dyn_prog.pdf
 
 
