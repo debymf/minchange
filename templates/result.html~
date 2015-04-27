@@ -1,0 +1,14 @@
+$def with (result)
+
+
+<html>
+	<head><title>Minimum Coin Change</title></head>
+	<body>
+		$if result == -1:
+			Error: The value contained in the file was not between 1 and 250
+		$else:
+			$result
+	</form>
+	</body>
+</html>
+
